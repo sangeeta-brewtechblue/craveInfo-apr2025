@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.sj.repo.crud_mysql.repo;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+/**
+ * @author sange
+ *
+ */
+public interface BookRepository extends JpaRepository<T, ID> {
+
+}

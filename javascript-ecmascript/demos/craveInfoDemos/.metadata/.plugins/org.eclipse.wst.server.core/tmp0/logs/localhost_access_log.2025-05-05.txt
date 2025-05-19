@@ -1,0 +1,10 @@
+127.0.0.1 - - [05/May/2025:10:31:51 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:31:52 +0530] "GET /AjaxCompareDemo/index.html HTTP/1.1" 200 790
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:33:22 +0530] "GET /AjaxCompareDemo/index.html HTTP/1.1" 200 790
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:33:22 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:33:38 +0530] "GET /AjaxCompareDemo/hello.txt? HTTP/1.1" 200 41
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:34:15 +0530] "GET /AjaxCompareDemo/hello.txt HTTP/1.1" 200 41
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:34:55 +0530] "GET /AjaxCompareDemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:34:56 +0530] "GET /AjaxCompareDemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:34:56 +0530] "GET /AjaxCompareDemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/May/2025:10:36:56 +0530] "GET /AjaxCompareDemo/hello.txt HTTP/1.1" 200 41

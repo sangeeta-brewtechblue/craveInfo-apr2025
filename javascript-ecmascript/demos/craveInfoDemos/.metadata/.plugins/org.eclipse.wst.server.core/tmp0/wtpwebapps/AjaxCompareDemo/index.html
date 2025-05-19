@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script>
+  function ajaxCall()
+  {
+	  var xhttp = new XMLHttpRequest();
+	  xhttp.onreadystatechange = function() {
+	    if (this.readyState == 4 && this.status == 200) {
+	      document.getElementById("demo").innerHTML =
+	      this.responseText;
+	    }
+	    else (console.log("no such resource available"+this.status));
+	  };
+	  xhttp.open("GET", "hello.txt", true);
+	  xhttp.send();
+
+
+  }
+  
+
+</script>
+</head>
+<body>
+  <div id=demo ></div>
+  
+  <button onclick=ajaxCall()>Make xmlhttprequest to Server(asynch..using AJAX)</button>
+  
+  <br>
+  <br> 
+  <form action="hello.txt" method="get">
+  
+  <button type="submit">Make standard request to Server(synch..)</button>
+  
+  </form>
+
+</body>
+</html>

@@ -1,0 +1,63 @@
+/**
+ * 
+ */
+package com.sj.repo.crud_mysql.service;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.sj.repo.crud_mysql.model.Book;
+import com.sj.repo.crud_mysql.repo.BookRepository;
+
+/**
+ * @author sange
+ *
+ */
+@Service
+public class BookService {
+	@Autowired
+	BookRepository bookRepo;
+	
+    public Book addBook(Book b) {
+    	return bookRepo.save(b);
+    }
+    
+    public List<Book>  getAllBooks() {
+    	 return    bookRepo.findAll();
+    }
+    
+    public Book    getBookById(int id) {
+    	Optional<Book> b1=bookRepo.findById(id);
+    	if(b1.isPresent())
+    		return b1.get();
+    	else
+    		return null;    	
+    	 //return  
+    }
+    
+    public Book updateBook(Book toUpdate) {
+    	Book toBeUpdated =  getBookById(toUpdate.getId());
+    	toBeUpdated.setAuthor(toUpdate.getAuthor());
+    	toBeUpdated.setPrice(toUpdate.getPrice());
+    	toBeUpdated.setTitle(toUpdate.getTitle());
+    	 return   bookRepo.save(toBeUpdated);    	
+    }
+   
+    public List<Book> deleteBook(int id){
+    	       Book toDelete = getBookById(id);    	
+               bookRepo.delete(toDelete);
+               
+               return this.getAllBooks();
+    
+    }
+    
+    public List<Book> getBooksByAuthor(String authorName){
+    	
+    	return bookRepo.findByAuthor(authorName);
+    }
+    
+    
+}

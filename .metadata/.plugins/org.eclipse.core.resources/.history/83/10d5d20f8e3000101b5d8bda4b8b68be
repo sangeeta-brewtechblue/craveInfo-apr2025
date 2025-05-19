@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.sj.repo.crud_mysql.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author sange
+ *
+ */
+
+@RestController
+public class BookController {
+	
+	
+	
+	
+
+}

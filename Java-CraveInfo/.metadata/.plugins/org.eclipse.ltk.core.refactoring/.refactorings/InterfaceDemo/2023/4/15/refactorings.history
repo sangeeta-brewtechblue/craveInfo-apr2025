@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;DIDemo/src/main/java/com.sj.core.DIDemo&apos;&#x0D;&#x0A;- Original project: &apos;InterfaceDemo&apos;&#x0D;&#x0A;- Destination element: &apos;DIDemo/src/main/java/com.sj.core.DIDemo&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.sj.lc.User.java&#x0D;&#x0A;     com.sj.lc.CalculatorA.java&#x0D;&#x0A;     com.sj.lc.Calculator.java&#x0D;&#x0A;     com.sj.lc.CalculatorB.java" description="Copy compilation units" destination="=DIDemo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sj.core.DIDemo" element1="/src&lt;com.sj.lc{User.java" element2="/src&lt;com.sj.lc{CalculatorA.java" element3="/src&lt;com.sj.lc{Calculator.java" element4="/src&lt;com.sj.lc{CalculatorB.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1681197053178" units="4" version="1.0"/>
+</session>

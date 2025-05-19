@@ -1,0 +1,157 @@
+2025-05-13 12:03:06,502 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-13 12:04:39,444 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sj.repo:crud-mysql:0.0.1-SNAPSHOT @ F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\pom.xml.
+2025-05-13 12:04:39,994 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crud-mysql/src/main/java
+2025-05-13 12:04:39,994 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crud-mysql/src/main/resources
+2025-05-13 12:04:39,996 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crud-mysql/src/main/resources
+2025-05-13 12:04:39,998 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crud-mysql/src/test/java
+2025-05-13 12:04:40,144 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-05-13 12:04:40,747 [Worker-2: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:04:40,760 [Worker-2: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:04:40,762 [Worker-2: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:04:43,756 [Worker-7: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:04:43,756 [Worker-7: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:04:43,757 [Worker-7: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:08:09,964 [Worker-7: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:08:09,965 [Worker-7: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:08:09,966 [Worker-7: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:08:15,127 [Worker-12: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:08:15,127 [Worker-12: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:08:15,128 [Worker-12: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:17:01,096 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:17:01,105 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:17:01,106 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:21:52,569 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:21:52,569 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:21:52,570 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:23:59,935 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:23:59,936 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:23:59,937 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:24:08,955 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:24:08,956 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:24:08,958 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:26:14,072 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:26:14,078 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:26:14,080 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:30:12,923 [Worker-22: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:30:12,931 [Worker-22: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:30:12,933 [Worker-22: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:33:43,264 [Worker-22: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:33:43,271 [Worker-22: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:33:43,271 [Worker-22: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:35:38,422 [Worker-19: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:35:38,429 [Worker-19: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:35:38,431 [Worker-19: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:37:53,896 [Worker-25: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:37:53,902 [Worker-25: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:37:53,904 [Worker-25: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:40:13,658 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:40:13,675 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:40:13,677 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:41:29,119 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:41:29,124 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:41:29,125 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:46:00,362 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:46:00,367 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:46:00,369 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:47:14,168 [Worker-26: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:47:14,175 [Worker-26: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:47:14,176 [Worker-26: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:49:33,181 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:49:33,187 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:49:33,188 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:50:10,722 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:50:10,728 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:50:10,730 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 12:54:36,408 [Worker-26: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 12:54:36,413 [Worker-26: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 12:54:36,413 [Worker-26: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 13:08:03,424 [Worker-40: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 13:08:03,432 [Worker-40: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 13:08:03,433 [Worker-40: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 13:08:12,145 [Worker-39: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 13:08:12,153 [Worker-39: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 13:08:12,155 [Worker-39: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-13 13:08:24,322 [Worker-39: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-13 13:08:24,328 [Worker-39: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-13 13:08:24,329 [Worker-39: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 10:14:40,554 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-14 10:20:48,966 [Worker-2: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 10:20:48,989 [Worker-2: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 10:20:48,991 [Worker-2: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 10:28:06,067 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 10:28:06,072 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 10:28:06,073 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 10:35:40,739 [Worker-0: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 10:35:40,763 [Worker-0: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 10:35:40,765 [Worker-0: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 10:42:14,388 [Worker-20: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 10:42:14,394 [Worker-20: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 10:42:14,396 [Worker-20: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 10:46:54,795 [Worker-25: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 10:46:54,803 [Worker-25: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 10:46:54,804 [Worker-25: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 10:48:51,856 [Worker-20: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 10:48:51,881 [Worker-20: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 10:48:51,882 [Worker-20: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 11:17:55,209 [Worker-31: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sj.repo:crud-mysql:0.0.1-SNAPSHOT @ F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\pom.xml.
+2025-05-14 11:17:55,629 [Worker-31: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 11:17:55,629 [Worker-31: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 11:17:55,631 [Worker-31: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 11:17:57,281 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 11:17:57,294 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 11:17:57,295 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 11:31:39,848 [Worker-37: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 11:31:39,855 [Worker-37: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 11:31:39,855 [Worker-37: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:00:07,768 [Worker-31: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 12:00:07,791 [Worker-31: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:00:07,793 [Worker-31: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:02:33,652 [Worker-42: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 12:02:33,658 [Worker-42: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:02:33,659 [Worker-42: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:08:35,877 [Worker-45: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 12:08:35,882 [Worker-45: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:08:35,883 [Worker-45: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:10:35,655 [Worker-42: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 12:10:35,677 [Worker-42: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:10:35,679 [Worker-42: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:11:25,908 [Worker-38: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:11:25,908 [Worker-38: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:11:25,911 [Worker-38: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:11:35,168 [Worker-44: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:11:35,168 [Worker-44: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:11:35,168 [Worker-44: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:11:36,269 [Worker-44: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:11:36,269 [Worker-44: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:11:36,270 [Worker-44: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:25:38,839 [Worker-51: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 12:25:38,845 [Worker-51: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:25:38,846 [Worker-51: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:26:44,923 [Worker-51: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 12:26:44,930 [Worker-51: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:26:44,931 [Worker-51: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-14 12:36:53,117 [Worker-54: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-14 12:36:53,130 [Worker-54: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-14 12:36:53,131 [Worker-54: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-15 08:47:04,072 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-15 10:39:22,839 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-15 10:49:37,565 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-15 10:50:08,586 [Worker-0: Launching crud-mysql - CrudMysqlApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-15 10:50:08,610 [Worker-0: Launching crud-mysql - CrudMysqlApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 10:50:08,612 [Worker-0: Launching crud-mysql - CrudMysqlApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-15 11:15:30,915 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-15 11:15:30,922 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 11:15:30,923 [Worker-14: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-15 11:15:52,042 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 11:15:52,043 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 11:15:52,044 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-15 11:15:58,192 [Worker-13: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 11:15:58,192 [Worker-13: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 11:15:58,194 [Worker-13: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-15 11:38:25,047 [Worker-23: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-15 11:38:25,054 [Worker-23: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 11:38:25,055 [Worker-23: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-15 11:38:51,418 [Worker-19: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-15 11:38:51,426 [Worker-19: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 11:38:51,428 [Worker-19: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\springboot-crave\downloadedPr\crud-mysql\crud-mysql\src\test\resources
+2025-05-19 12:22:13,557 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

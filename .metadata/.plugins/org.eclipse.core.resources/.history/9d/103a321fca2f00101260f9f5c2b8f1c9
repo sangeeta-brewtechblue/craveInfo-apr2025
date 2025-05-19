@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.sj.repo.crud_mysql.service;
+
+/**
+ * @author sange
+ *
+ */
+public class BookService {
+
+}

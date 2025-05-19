@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+F:\Javascript\craveInfoDemos\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3330854630.index
+3852513127.index
+1560164955.index
+1279927108.index
+1630304708.index
+1780006549.index
+3164978804.index
+72066997.index
+1722765538.index
